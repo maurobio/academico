@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="about.png">about.png</file>
+<file alias="exit.png">exit.png</file>
+<file alias="help.png">help.png</file>
+<file alias="refresh.png">refresh.png</file>
+<file alias="schlfish.png">schlfish.png</file>
+</qresource>
+</RCC>
