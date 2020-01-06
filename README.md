@@ -1,12 +1,12 @@
 ![schlfish](C:\Users\mauro\OneDrive\Documentos\GitHub\academico\schlfish.jpg)
 
-# academico
+# Acadêmico
 
-Ferramenta de software para extração semi-automática, compilação e análise de dados de produção bibliográfica acadêmica a partir da Plataforma Lattes/CNPq.
+Ferramenta de software para extração semiautomática, compilação e análise de dados de produção bibliográfica acadêmica a partir da Plataforma Lattes/CNPq.
 
 ### Sobre
 
-***O Acadêmico*** é uma ferramenta de software desenvolvida com a linguagem de programação [Python](http://www.python.org/), para extração semi-automática, compilação e análise de dados de produção bibliográfica acadêmica a partir da [Plataforma Lattes/CNPq](http://lattes.cnpq.br/).
+***O Acadêmico*** é uma ferramenta de software desenvolvida com a linguagem de programação [Python](http://www.python.org/), para extração semiautomática, compilação e análise de dados de produção bibliográfica acadêmica a partir da [Plataforma Lattes/CNPq](http://lattes.cnpq.br/).
 
 O principal objetivo do ***Acadêmico*** é facilitar a compilação e quantificação da produção bibliográfica de um grupo de pesquisadores cadastrados na [Plataforma Lattes/CNPq](http://lattes.cnpq.br/) (por exemplo, um grupo de pesquisa, um curso de pós-graduação ou um departamento acadêmico). Os relatórios gerados possibilitam uma avaliação rápida da produção do grupo de interesse.
 
@@ -23,7 +23,7 @@ O principal objetivo do ***Acadêmico*** é facilitar a compilação e quantific
 
 ### Download
 
-**O Acadêmico** (incluindo programa de instalação para MS-Windows XP, Vista, 7, 8, 10 e código-fonte em Python) está disponível para download no repositório [SourceForge](http://sourceforge.net/projects/oacademico/).
+***O Acadêmico*** (incluindo programa de instalação para MS-Windows XP, Vista, 7, 8, 10 e código-fonte em Python) está disponível para download no repositório [SourceForge](http://sourceforge.net/projects/oacademico/).
 
 O pacote de instalação inclui o interpretador Python e todos os módulos necessários à execução do programa.
 
