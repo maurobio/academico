@@ -1,6 +1,4 @@
-![schlfish](C:\Users\mauro\OneDrive\Documentos\GitHub\academico\schlfish.jpg)
-
-# Acadêmico
+# <img src="images\schlfish.jpg" alt="schlfish" style="zoom:50%;" /> Acadêmico
 
 Ferramenta de software para extração semiautomática, compilação e análise de dados de produção bibliográfica acadêmica a partir da Plataforma Lattes/CNPq.
 
