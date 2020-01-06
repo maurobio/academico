@@ -17,7 +17,7 @@ O principal objetivo do ***Acadêmico*** é facilitar a compilação e quantific
 
 ### Tutorial
 
-[Tutorial para utilização do ***Acadêmico***](http://github.com/maurobio/academico/help/)
+[Tutorial para utilização do ***Acadêmico***](help/index.html)
 
 ### Download
 
