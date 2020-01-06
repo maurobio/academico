@@ -17,7 +17,7 @@ O principal objetivo do ***Acadêmico*** é facilitar a compilação e quantific
 
 ### Tutorial
 
-[Tutorial para utilização do ***Acadêmico***](http://oacademico.sourceforge.net/help/)
+[Tutorial para utilização do ***Acadêmico***](http://github.com/maurobio/academico/help/)
 
 ### Download
 
@@ -36,8 +36,3 @@ Para executar o programa a partir do código-fonte, é necessário instalar as s
 ### Licença
 
 ***O Acadêmico*** é software livre e de código aberto, distribuído nos termos da [Licença Pública Geral GNU](http://www.magnux.org/doc/GPL-pt_BR.txt) (GNU GPL), versão 2 ou posterior.
-
-### Contato
-
-[Mauro J. Cavalcanti](mailto:maurobio@gmail.com)
-E-mail: maurobio (at) gmail (dot) com
